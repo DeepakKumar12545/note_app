@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832792770399",
+    "project_id": "dumyfire-ff84e",
+    "storage_bucket": "dumyfire-ff84e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832792770399:android:f9de1c04a259f0fa7728ea",
+        "android_client_info": {
+          "package_name": "com.example.flutter_dumy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFsRij6fwDr6UlicdrI57vjRAyhlHV64o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
